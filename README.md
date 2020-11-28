@@ -1,2 +1,2 @@
 # Practicas
-Es un notebook de Hc 
+Es un notebook de HC
